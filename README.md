@@ -12,8 +12,8 @@ I build AI agents that talk to real customers. In 2026 I designed and ran WhatsA
 ## What I work on
 
 - 🤖 **Conversational agents** - WhatsApp / Instagram agents with persistent memory, HOT / WARM / COLD lead scoring and a modular prompt architecture reused across industries
-- 📚 **RAG** - retrieval pipelines in Python with local embeddings and an LLM API
-- 👁️ **Computer vision** - object detection with YOLO (Ultralytics)
+- 📚 **RAG** - retrieval pipelines in Python with local embeddings and an LLM API → [Rag-Restaurante](https://github.com/SantiagoSanchezAI/Rag-Restaurante)
+- 👁️ **Computer vision** - object detection with YOLO (Ultralytics) → [ppe-detection-yolo](https://github.com/SantiagoSanchezAI/ppe-detection-yolo)
 - ⚡ **Automation** - end-to-end workflows connecting LLMs, messaging APIs and business logic
 
 ## Featured projects
@@ -22,6 +22,7 @@ I build AI agents that talk to real customers. In 2026 I designed and ran WhatsA
 |---|---|---|
 | [Portfolio](https://santiagosanchezai.github.io/portfolio/) | All my projects in one page (EN/ES) | HTML, CSS, JS, GitHub Pages |
 | [Rag-Restaurante](https://github.com/SantiagoSanchezAI/Rag-Restaurante) | RAG assistant that answers only from the business's own documents | Python, sentence-transformers, NumPy, Claude API |
+| [ppe-detection-yolo](https://github.com/SantiagoSanchezAI/ppe-detection-yolo) | PPE detection on construction sites: training, metrics and error analysis | YOLO26, Ultralytics, Python |
 | [ai-restaurant-bot](https://github.com/SantiagoSanchezAI/ai-restaurant-bot) | 24/7 reservation agent for WhatsApp | Make, OpenAI API, UltraMsg |
 | [ai-fitness-bot](https://github.com/SantiagoSanchezAI/ai-fitness-bot) | Sales agent for gyms on WhatsApp and Instagram | Make, OpenAI API, Instagram API |
 
